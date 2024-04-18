@@ -11,8 +11,6 @@ Download and Install XAMPP.
 
 Download the provided source code zip file.
 
-Note: The database is included on the provided zip file.
-
 Installation/Setup
 
 Transfer the provided source code to the htdocs folder.
