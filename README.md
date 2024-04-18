@@ -8,13 +8,17 @@ www.php.net/downloads.php
 Requirements:
 
 Download and Install XAMPP.
+
 Download the provided source code zip file.
+
 Note: The database is included on the provided zip file.
 
 Installation/Setup
 
 Transfer the provided source code to the htdocs folder.
+
 Create a database named "food_recipe_db" in phpMyAdmin MySQL.
+
 Import the provided SQL file into the created database.
 
 Open via Visual Studio Code (Open Folder 511627-wongnok-recipes)
